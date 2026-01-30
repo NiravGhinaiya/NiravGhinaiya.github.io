@@ -1,0 +1,202 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.windows": {},
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "cSpell.userWords": [
+        "childrens"
+    ],
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.links": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "always",
+    "editor.cursorWidth": 3,
+    "editor.lineHeight": 21,
+    "editor.fontLigatures": true,
+    "custom-ui-style.stylesheet": {
+        ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #ff4181 10%, #ff4181 100%) !important",
+        ".monaco-editor .current-line": "background-color: rgba(255, 65, 129, 0.08) !important",
+        ".quick-input-widget": {
+            "top": "30vh !important",
+            "width": "700px !important",
+            "border-radius": "5px !important",
+            "background-color": "#263238 !important",
+        },
+        ".quick-input-widget .monaco-inputbox": {
+            "padding": "5px 10px !important",
+            "border-radius": "5px !important",
+            "font-size": "14px !important",
+            "background-color": "#263238 !important",
+            "color": "#c3e88d !important",
+            "font-family": "Cascadia Code"
+        },
+        ".quick-input-widget .monaco-list-rows": {
+            "font-size": "14px !important"
+        },
+        ".quick-input-widget .quick-input-list-entry": {
+            "position": "relative",
+            "padding": "0px 15px"
+        },
+        ".monaco-workbench .part.editor>.content .editor-group-container>.title>.label-container>.title-label": {
+            "justify-content": "center",
+            "align-items": "center"
+        },
+        ".monaco-icon-label>.monaco-icon-label-container>.monaco-icon-description-container>.label-description": {
+            "display": "none"
+        }
+    },
+    "vscode_custom_css.imports": [
+        "file:///C:/vsCodeScript/index.js"
+    ],
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#FF2D00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "?",
+            "color": "#3498DB",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "todo",
+            "color": "#FF8C00",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "HACK",
+            "color": "#27c6d5",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "NOTE",
+            "color": "#baebe2",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "-->",
+            "color": "#ec7fff",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        },
+        {
+            "tag": "|-->",
+            "color": "#FFF",
+            "strikethrough": false,
+            "underline": false,
+            "backgroundColor": "transparent",
+            "bold": false,
+            "italic": false
+        }
+    ],
+    "liveServer.settings.port": 0,
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorWidth": 3,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyleInactive": "none",
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "workbench.colorCustomizations": {
+        // "terminal.selectionBackground": "#f5b8cc", // terminal backgrund color
+        // "terminal.foreground": "#bb86fc", // terminal text color
+        "terminalCursor.foreground": "#ff4181",
+        "terminal.tab.activeBorder": "#ff4181",
+        "tab.activeBorder": "#ff0000",
+    },
+    "workbench.editor.showTabs": "single",
+    "workbench.activityBar.location": "top",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "window.menuBarVisibility": "compact",
+    "editor.tabSize": 2,
+    "window.titleSeparator": "   😊   ",
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}",
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Aura Dracula Spirit",
+    "workbench.sideBar.location": "right",
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.indent": 10,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.decorations.badges": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.outputLevel": "debug",
+}
